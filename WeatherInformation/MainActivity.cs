@@ -141,7 +141,7 @@ namespace WeatherInformation
                     {
                         _constraintLayout.SetBackgroundResource(Resource.Drawable.drizzle);
                     }
-                    else if (icons == "10d" || icons=="13n" || icons =="09n")
+                    else if (icons == "10n" || icons=="13n" || icons =="09n")
                     {
                         _constraintLayout.SetBackgroundResource(Resource.Drawable.rain);
                     }
